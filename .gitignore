@@ -1,0 +1,4 @@
+*.pyc
+*.cfg
+*.wsgi
+*.pem
